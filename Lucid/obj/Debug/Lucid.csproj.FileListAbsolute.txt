@@ -1,0 +1,13 @@
+D:\Development Work\RGH Tools\Crescent Mod Tool\Lucid\Lucid\bin\Debug\Lucid.exe.config
+D:\Development Work\RGH Tools\Crescent Mod Tool\Lucid\Lucid\bin\Debug\Lucid.exe
+D:\Development Work\RGH Tools\Crescent Mod Tool\Lucid\Lucid\bin\Debug\Lucid.pdb
+D:\Development Work\RGH Tools\Crescent Mod Tool\Lucid\Lucid\bin\Debug\JRPC.dll
+D:\Development Work\RGH Tools\Crescent Mod Tool\Lucid\Lucid\obj\Debug\Lucid.csproj.AssemblyReference.cache
+D:\Development Work\RGH Tools\Crescent Mod Tool\Lucid\Lucid\obj\Debug\Lucid.csproj.SuggestedBindingRedirects.cache
+D:\Development Work\RGH Tools\Crescent Mod Tool\Lucid\Lucid\obj\Debug\Lucid.Lucid.resources
+D:\Development Work\RGH Tools\Crescent Mod Tool\Lucid\Lucid\obj\Debug\Lucid.Properties.Resources.resources
+D:\Development Work\RGH Tools\Crescent Mod Tool\Lucid\Lucid\obj\Debug\Lucid.csproj.GenerateResource.cache
+D:\Development Work\RGH Tools\Crescent Mod Tool\Lucid\Lucid\obj\Debug\Lucid.csproj.CoreCompileInputs.cache
+D:\Development Work\RGH Tools\Crescent Mod Tool\Lucid\Lucid\obj\Debug\Lucid.csproj.CopyComplete
+D:\Development Work\RGH Tools\Crescent Mod Tool\Lucid\Lucid\obj\Debug\Lucid.exe
+D:\Development Work\RGH Tools\Crescent Mod Tool\Lucid\Lucid\obj\Debug\Lucid.pdb
